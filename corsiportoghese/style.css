@@ -1157,4 +1157,25 @@ textarea:focus {
       .footer .container {
             width: 92% !important;
       }
+      
+      
+      @media(max-width: 650px) {
+      .footer .container {
+            width: 92% !important;
+      }
+
+      #brand .logoz {
+      visibility: hidden;
+}
+
+   #toggle .logoz {
+    margin-top: -10px;
+    margin-left: -400px;
+}
+
+.span {
+    margin-top: -30px;
+    margin-left: -10px;
+}
+
 }
