@@ -1166,6 +1166,10 @@ textarea:focus {
     margin-left: -550px;
 }
       
+       #toggle .logoz a {
+    text-decoration: none;
+}
+      
       @media(max-width: 650px) {
       .footer .container {
             width: 92% !important;
@@ -1178,6 +1182,10 @@ textarea:focus {
   #toggle .logoz {
     margin-top: -10px;
     margin-left: -470px;
+}
+            
+             #toggle .logoz a {
+    text-decoration: none;
 }
 .span {
     margin-top: -30px;
