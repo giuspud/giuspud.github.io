@@ -1157,7 +1157,10 @@ textarea:focus {
       .footer .container {
             width: 92% !important;
       }
-      
+         #toggle .logoz {
+    margin-top: -10px;
+    margin-left: -400px;
+}
       
       @media(max-width: 650px) {
       .footer .container {
