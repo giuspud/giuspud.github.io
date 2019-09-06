@@ -1,7 +1,5 @@
 
 
-
-
 * {
       box-sizing: border-box;
       margin: 0%;
@@ -187,7 +185,7 @@ video {
       z-index: 2;
       top: 0px;
       position: fixed;
-      background: #0f0f0f;
+      background: #1190cb;
       width: 100%;
       height: 100%;
       visibility: hidden;
@@ -247,9 +245,8 @@ video {
 
       #resize ul li a {
             font-size: 15px;
-            font-family: "Poppins" !important;
             font-weight: lighter !important;
-            color: rgb(156, 156, 156) !important;
+            color: white !important;
             transition: all 500ms ease-out;
       }
 
@@ -434,7 +431,6 @@ button {
       font-size: 12px;
       font-weight: 600;
       text-transform: uppercase;
-      font-family: Poppins !important;
 }
 
 /*--------------- contact section starts here --------------- */
