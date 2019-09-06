@@ -510,6 +510,13 @@ textarea:focus {
             margin: 5% 0;
             width: 98%;
       }
+      .header h1 {
+      color: white;
+      font-size: 90px !important;
+      text-shadow: 2px 2px 4px #000000;
+
+
+}
 }
 
 /*--------------- footer section starts here --------------- */
@@ -563,7 +570,13 @@ textarea:focus {
             width: 92% !important;
       }
 
+.header h1 {
+      color: white;
+      font-size: 90px !important;
+      text-shadow: 2px 2px 4px #000000;
 
+
+}
 }
 
  @media (max-width: 900px){
@@ -579,6 +592,13 @@ textarea:focus {
 }
 
 
+.header h1 {
+      color: white;
+      font-size: 80px !important;
+      text-shadow: 2px 2px 4px #000000;
+
+
+}
 }
 
 @media (max-width: 768px){
@@ -592,7 +612,13 @@ textarea:focus {
     margin-top: -80px;
 
 }
+.header h1 {
+      color: white;
+      font-size: 70px !important;
+      text-shadow: 2px 2px 4px #000000;
 
+
+}
 
 @media (max-width: 375px){
 
@@ -603,6 +629,14 @@ textarea:focus {
     font-style: normal;
     font-size: 30px;
     margin-top: -160px;
+
+}
+
+.header h1 {
+      color: white;
+      font-size: 60px !important;
+      text-shadow: 2px 2px 4px #000000;
+
 
 }
 
