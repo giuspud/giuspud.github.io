@@ -1,5 +1,7 @@
 
 
+
+
 * {
       box-sizing: border-box;
       margin: 0%;
@@ -300,13 +302,13 @@ section {
 }
 
 .section-subheading {
-      color: grey;
+      color: #5f5d5d;
       margin: 10px 0;
 }
 
 .section-info {
       font-size: 24px;
-      color: grey;
+      color: #5f5d5d;
 }
 
 .more {
@@ -333,8 +335,8 @@ button {
 }
 
 .icon img {
-      height: 50px;
-      font-weight: 50px;
+      height: 70px;
+      font-weight: 70px;
       }
 
 .icon-title {
@@ -351,7 +353,7 @@ button {
 }
 
 .team-img {
-      background: grey;
+      background: #5f5d5d;
       height: 340px;
 }
 
@@ -518,7 +520,7 @@ textarea:focus {
 
 .footer p {
       padding-top: 25px;
-      color: grey;
+      color: #5f5d5d;
       font-weight: lighter;
 }
 
