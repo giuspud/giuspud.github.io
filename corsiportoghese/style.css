@@ -600,7 +600,6 @@ font-size: 30px;
 
 }
 
-
 @media(max-width: 650px) {
 
 .logoz2 {
@@ -609,8 +608,8 @@ font-family: '17b9170065293f79c851b3dab3a2788b';
 font-weight:normal;
 font-style:normal;
 font-size: 30px;
+margin-top: -60px;
 }
-
 
   
 
