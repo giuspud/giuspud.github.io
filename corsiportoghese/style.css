@@ -1,5 +1,7 @@
 
 
+
+
 * {
       box-sizing: border-box;
       margin: 0%;
@@ -562,4 +564,18 @@ textarea:focus {
       .footer .container {
             width: 92% !important;
       }
+
+
+}
+
+ @media (max-width: 900px){
+
+.logoz2 {
+    color: #1190cb;
+    font-family: '17b9170065293f79c851b3dab3a2788b';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
+    margin-top: -160px;
+}
 }
