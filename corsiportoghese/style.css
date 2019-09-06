@@ -1154,7 +1154,7 @@ textarea:focus {
 }
       #toggle .logoz {
     margin-top: -10px;
-    margin-left: 500px;
+    margin-left: -600px;
 }
 
 @media(max-width: 900px) {
@@ -1163,7 +1163,7 @@ textarea:focus {
       }
    #toggle .logoz {
     margin-top: -10px;
-    margin-left: 300px;
+    margin-left: -300px;
 }
       
        #toggle .logoz a {
@@ -1181,7 +1181,7 @@ textarea:focus {
 
   #toggle .logoz {
     margin-top: -10px;
-    margin-left: 100px;
+    margin-left: -150px;
 }
             
              #toggle .logoz a {
