@@ -113,6 +113,7 @@ video {
       }
 
       .header h1 {
+            margin-top:40px;
             font-size: 50px !important;
             text-align: center;
       }
