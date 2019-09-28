@@ -25,32 +25,7 @@ font-size: 35px;
 
 
 
-.video-container {
-      position: absolute;
-      width: 100%;
-      height: 90vh;
-      overflow: hidden;
-}
 
-video {
-      object-fit: cover;
-      width: 100vw;
-      height: 90vh;
-      position: absolute;
-      top: 0;
-      left: 0;
-}
-
-.video-container::after {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 90vh;
-      background: #1b1b1b;
-      opacity: 0.3;
-}
 
 
 /*--------------- 
@@ -285,7 +260,7 @@ video {
 
 .content {
       position: absolute;
-      margin-top: 90vh;
+      margin-top: 0vh;
       width: 100%;
 }
 
@@ -339,173 +314,13 @@ button {
 
 /*--------------- services section starts  --------------- */
 
-.services {
-      background: #1190cb;
-}
 
-.service {
-      margin: 30px 0;
-}
 
-.icon img {
-      height: 50px;
-      font-weight:50px;
-    
-}
 
-.icon-title {
-      font-size: 28px;
-      margin-bottom: 4px;
-      color: white;
-      font-weight: lighter;
-}
 
 /*--------------- our team section starts  --------------- */
 
-.team-member, .team-img {
-      position: relative;
-}
 
-.team-img {
-      background: #565454;
-      height: 340px;
-}
-
-.members {
-      margin: 50px 0;
-}
-
-.team-title {
-      margin: 20px 0;
-}
-
-.team-title h5 {
-      font-size: 28px;
-}
-
-.team-title span {
-      font-size: 20px;
-}
-
-.team-member {
-      overflow: hidden;
-}
-
-.team-one {
-      background: url(img/team-one.jpg) no-repeat 50% 50%;
-      background-size: cover;
-}
-
-.team-two {
-      background: url(img/team-two.jpg) no-repeat 50% 50%;
-      background-size: cover;
-}
-
-/*--------------- newsletter section starts  --------------- */
-
-.newsletter img {
-    height: 300px;
-    width: 300px;
-}
-
-.newsletter {
-      padding: 40px 0;
-      background: #1190cb;
-}
-
-.newsletter input {
-      text-transform: uppercase;
-}
-
-.newsletter .news-data {
-      max-width: 650px;
-      margin: 0 auto;
-      text-align: center;
-      position: relative;
-}
-
-.newsletter h1 {
-      color: #fff;
-      margin-bottom: 40px;
-}
-
-.newsletter .form-control {
-      height: 50px;
-      border-color: #fff;
-      border-radius: 0 !important;
-}
-
-.form-control:focus {
-      box-shadow: none !important;
-      border: none !important;
-}
-
-::placeholder {
-      letter-spacing: 4px;
-}
-
-.newsletter .btn {
-      min-height: 50px;
-      padding: 0 30px;
-      border-radius: 0;
-      background: #000;
-      color: #fff;
-      font-size: 12px;
-      font-weight: 600;
-      text-transform: uppercase;
-      font-family: Barlow !important;
-}
-
-/*--------------- contact section starts here --------------- */
-
-#contact-form {
-      margin: 5% 0;
-}
-
-.contact .icon-title {
-      margin-top: 10px;
-      color: #000;
-}
-
-#contact-form ul {
-      list-style: none;
-      margin-bottom: 40px;
-      border-radius: 0;
-}
-
-#contact-form li:last-of-type {
-      border-bottom: none;
-}
-
-#contact-form label {
-      display: block;
-      font-size: 22px;
-      color: rgb(97, 97, 97);
-}
-
-#contact-form input, #contact-form textarea {
-      width: 100%;
-      padding: 5px;
-      border: none;
-      resize: vertical;
-      background: transparent;
-      color: #101010;
-      font-weight: bolder;
-}
-
-input:focus {
-      outline: none !important;
-      border: none !important;
-}
-
-textarea:focus {
-      outline: none !important;
-      border: none !important;
-}
-
-.textarea {
-      border-bottom: 1px solid #c9c9c9;
-}
 
 @media(max-width: 900px) {
       #contact-form {
